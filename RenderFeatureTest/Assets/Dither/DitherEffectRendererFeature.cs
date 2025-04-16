@@ -76,19 +76,4 @@ public class DitherEffectRendererFeature : ScriptableRendererFeature
         m_ScriptablePass.Setup(material);
         renderer.EnqueuePass(m_ScriptablePass);
     }
-
-    protected override void Dispose(bool disposing)
-    {
-        if (disposing && material != null)
-        {
-            if (Application.isPlaying)
-            {
-                Destroy(material);
-            }
-            else
-            {
-                DestroyImmediate(material);
-            }
-        }
-    }
 }
