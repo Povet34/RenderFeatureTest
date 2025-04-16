@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/06025344-b0d6-4d82-a21c-c05fe6d1166c
 ### Dither
 
 
-https://github.com/user-attachments/assets/9f869438-5023-479c-96e2-33201c387623
+https://github.com/user-attachments/assets/526bd65c-affc-4e8b-ab73-d147edea741a
 
 
 
