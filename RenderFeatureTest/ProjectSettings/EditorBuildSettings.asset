@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Blur/Blur.unity
     guid: b03818f3e0e99a146986ca88fa84b6ab
+  - enabled: 1
+    path: Assets/Dither/Dither.unity
+    guid: 9b7adbfc50aea544e811a9d631d5350a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
